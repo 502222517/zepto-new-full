@@ -1,0 +1,20 @@
+{
+  "name": "zepto-new-full",
+  "version": "1.2.0",
+  "description": "Zepto.js shim built full with all available modules.",
+  "main": "zepto.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/502222517/zepto-new-full.git"
+  },
+  "keywords": [
+    "zepto",
+    "shim"
+  ],
+  "author": "cryptoquick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/502222517/zepto-new-full/issues"
+  },
+  "homepage": "https://github.com/502222517/zepto-new-full"
+}

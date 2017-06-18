@@ -1,0 +1,6 @@
+{
+  "name": "zepto-new-full",
+  "description": "Zepto.js shim built full with all available modules.",
+  "version": "1.2.0",
+  "main": "./zepto.js"
+}
